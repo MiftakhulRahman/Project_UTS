@@ -760,7 +760,7 @@ nav .right {
 
 .keterangan h3,
 .keterangan p {
-	color: var(--basic);
+	color: #fff;
 	text-align: center;
 	opacity: 1 !important;
 }
